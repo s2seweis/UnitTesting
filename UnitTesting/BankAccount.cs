@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace UnitTesting
 {
-    internal class BankAccount
+    //internal class BankAccount
+    public class BankAccount
     {
         public string Number { get; private set; }
         public string Owner { get; private set; }
